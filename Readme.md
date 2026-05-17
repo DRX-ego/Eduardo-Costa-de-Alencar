@@ -39,7 +39,8 @@ Atualmente cursando o 1º período de Engenharia de Software na Unicid. Sou apai
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Neoforge** | Plataforma moderna de criação de componentes visuais. | [Ver Projeto](./Neoforge/neoforge-ui) |
- 
+| **UrubuBet** | Plataforma de apostas 100% segura e sem deposito minimo | [Ver Projeto](./Neoforge/neoforge-ui) | 
+
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
