@@ -1,0 +1,40 @@
+{
+  "entities": {
+    "User": {
+      "title": "User Profile",
+      "description": "Stores user balance and metadata",
+      "type": "object",
+      "properties": {
+        "balance": { "type": "number", "description": "Current balance in BRL" },
+        "createdAt": { "type": "string", "format": "date-time" },
+        "displayName": { "type": "string" },
+        "bonusClaimed": { "type": "boolean" }
+      },
+      "required": ["balance", "createdAt"]
+    },
+    "Bet": {
+      "title": "Bet Transaction",
+      "description": "Records all bets placed by users",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "gameType": { "type": "string", "enum": ["slot", "roulette"] },
+        "amount": { "type": "number" },
+        "winAmount": { "type": "number" },
+        "result": { "type": "object" },
+        "timestamp": { "type": "string", "format": "date-time" }
+      },
+      "required": ["userId", "gameType", "amount", "winAmount", "timestamp"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User profile data including demo status"
+    },
+    "/bets/{betId}": {
+      "schema": "Bet",
+      "description": "Betting records"
+    }
+  }
+}

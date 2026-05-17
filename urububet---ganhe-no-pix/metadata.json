@@ -1,0 +1,6 @@
+{
+  "name": "UrubuBet - Ganhe no Pix",
+  "description": "A casa de apostas do Urubu de Boné. Jogue o Urubuzinho e Roleta com bônus real!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
