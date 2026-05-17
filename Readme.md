@@ -35,15 +35,15 @@ Atualmente cursando o 1º período de Engenharia de Software na Unicid. Sou apai
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🗃️ Site NeoForge UI
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Neoforge** | Plataforma moderna de criação de componentes visuais. | [Ver Projeto](./Neoforge/neoforge-ui) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Teste de modelos** | Prompt Estruturado em XML. | [Ver Projeto](./projeto-ia-churn/) |
  
 ---
  
