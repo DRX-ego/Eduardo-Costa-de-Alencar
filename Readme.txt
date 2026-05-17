@@ -1,4 +1,4 @@
-# Eduardo Costa de Alencar
+# Eduardo Costa
 > Estudante de Desenvolvimento de Software e Tecnologia
  
 ---
