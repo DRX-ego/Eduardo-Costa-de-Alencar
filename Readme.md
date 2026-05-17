@@ -1,5 +1,5 @@
 # Eduardo Costa de Alencar
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+> Estudante de Engenharia de Software
  
 ---
  
